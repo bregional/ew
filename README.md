@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images-na.ssl-images-amazon.com/images/P/ahttps://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1783602344i/255166570.jpg.01.LZZZZZZZ.jpg" width="160"/>
+<img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1783602344i/255166570.jpg" width="160"/>
 
 <br>
 
